@@ -12,6 +12,8 @@ public class main {
         System.out.println("new value long = " + car3.getLong() + " " + car3.name);
         truck truck1 = new truck(5000, "Truck 1", 8000, 5000, 6, "transport kompani");
         System.out.println(truck1.go());
+        System.out.println(car2.go());
+        System.out.println(car3.go());
     }
 }
 

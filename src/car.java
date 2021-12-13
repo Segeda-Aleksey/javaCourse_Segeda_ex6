@@ -29,4 +29,8 @@ public class car {
 
     public car() {
         }
+
+    public String go() {
+        return "go car";
+    }
 }

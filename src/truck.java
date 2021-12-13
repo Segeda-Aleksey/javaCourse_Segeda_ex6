@@ -35,6 +35,6 @@ public class truck extends car{
     }
 
     public String go() {
-        return "go";
+        return "go truck";
     }
 }

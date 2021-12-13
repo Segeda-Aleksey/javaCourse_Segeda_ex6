@@ -32,4 +32,8 @@ public class sportCar extends car{
         this.numberOfSeats = numberOfSeats;
         this.model = model;
     }
+
+    public String go() {
+        return "go speed car";
+    }
 }
